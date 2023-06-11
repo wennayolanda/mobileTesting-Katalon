@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002-Login with new email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6cd544b5-e3f6-4991-a0dd-01e9fa83aa07</testCaseGuid>
+</TestCaseEntity>
